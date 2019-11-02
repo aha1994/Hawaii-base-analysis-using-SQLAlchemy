@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Surfs Up!
 
 ![surfs-up.jpeg](Images/surfs-up.png)
@@ -145,3 +146,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 ## Copyright
 
 Data Boot Camp ©2019. All Rights Reserved.
+=======
+# Surfs_Up-SQLAlchemy-HWK-AHA
+Week 10 hwk
+>>>>>>> 8758a82a768df36ea59fd566f4a501384ef81849
